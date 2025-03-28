@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nour Al Awad</h1>
-<h3 align="center">A passionate full-stack developer and ML enthusiast</h3>
+<h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 💬 Feel free to text me: **https://t.me/mohammad_nour_alawad**
 
