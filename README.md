@@ -146,7 +146,7 @@ You can also find me on:
 
 For research collaboration, engineering work, or academic discussions:
 
-**Email:** [mohammadnouralawad1@gmail.com](mailto:mohammad1999alawad@gmail.com)  
+**Email:** [mohammad1999alawad@gmail.com](mailto:mohammad1999alawad@gmail.com)  
 **Telegram:** [@mohammad_nour_alawad](https://t.me/mohammad_nour_alawad)
 
 ---
