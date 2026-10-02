@@ -7,6 +7,8 @@
 
 *Adaptive Human–AI Collaboration · Agentic AI · Coding Agents · LLM Systems*
 
+**English** · [Русский](./README.ru.md) · [العربية](./README.ar.md)
+
 [Portfolio](https://mohammad-nour-alawad.github.io/Portfolio/) ·
 [Google Scholar](https://scholar.google.com/citations?user=EFVrXQIAAAAJ&hl=en) ·
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60140340400) ·
